@@ -11,11 +11,10 @@
   <a href="https://youtube.com/@stranger-q4z?si=bi2Dv__x49edCeCM">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://x.com/RahmauInd">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="![WhatsApp Image 2026-02-03 at 21 25 31](https://github.com/user-attachments/assets/e399786c-995a-426d-a72e-972d9c1b1839)
-">
+  <a href="https://www.instagram.com/hey_rahul.983/?utm_source=qr&r=nametag">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
