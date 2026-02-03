@@ -1,10 +1,13 @@
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDg5YTkybG1mb3R4Nm13cmVibDV5MW5wZXoyc3d5ZW44OWltNjExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkAMDssrf36PTuu9j9/giphy.gif" />
 </div>
 
-###
+
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=rahulmaurya&theme=github-dark&border_radius=8" />
+
   <a href="https://www.linkedin.com/in/rahul-maurya-081a4b37b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
@@ -14,33 +17,32 @@
   <a href="https://x.com/RahmauInd">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://www.instagram.com/hey_rahul.983/?utm_source=qr&r=nametag">
+  <a href="https://www.instagram.com/_rahul_.0211?igsh=dmcwczcxdGw3NzE3">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
-
-###
+ 
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulmaurya.rahulmaurya" />
 </div>
 
-###
 
-<h1 align="center">Hey there 👋 I'm Rahul Maurya</h1>
-
-###
+<h1 align="center" style="color:#00ff9c;">
+👾 Rahul Maurya | Cybersecurity • Programmer
+</h1>
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-<p align="left">
+<div  style="background-color:#0d1117; padding:15px; border-radius:12px; color:#c9d1d9;">
+
 I'm a Computer Science student from India 🇮🇳<br><br>
 - 🔭 Interested in Cybersecurity, Ethical Hacking & Linux<br>
 - 📚 Currently learning Kali Linux, Networking & Python<br>
 - 🛠 Practicing C, C++, C#, Python & Git<br>
 - 🎮 Gamer who enjoys strategy & competitive games<br>
 - ⚡ In my free time, I explore open-source projects, CTFs & gaming
-</p>
+</div>
 
 ###
 
@@ -69,12 +71,11 @@ I'm a Computer Science student from India 🇮🇳<br><br>
   <img width="12"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+
+
+<div>
+  For any Type of query mail me in : <a>ind.rahmau@gamil.com</a>
 </div>
 
-###
 
-<h3 align="left">🔥 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulmaurya&theme=dark&border_radius=5" height="220"/>
-</div>
