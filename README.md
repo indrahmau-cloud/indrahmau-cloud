@@ -37,7 +37,7 @@
 <div  style="background-color:#0d1117; padding:15px; border-radius:12px; color:#c9d1d9;">
 
 I'm a Computer Science student from India 🇮🇳<br><br>
-- 🔭 Interested in Cybersecurity, Ethical Hacking & Linux<br>
+- 🔭 Interested in Cybersecurity,Blue Team  & Linux<br>
 - 📚 Currently learning Kali Linux, Networking & Python<br>
 - 🛠 Practicing C, C++, C#, Python & Git<br>
 - 🎮 Gamer who enjoys strategy & competitive games<br>
